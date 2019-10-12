@@ -14,7 +14,7 @@ def introduction_with_language(name, language)
 end
 
 # Two arguments. The first mandatory, the second optional
-def introduction_with_language_optional(name, language = 'string')
+def introduction_with_language_optional(name, language = 'Ruby')
 end
 
 
