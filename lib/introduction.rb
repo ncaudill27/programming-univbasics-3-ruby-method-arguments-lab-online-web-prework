@@ -13,8 +13,8 @@ def introduction_with_language(name, language)
   puts "Hi, my name is #{name} and I am learning to program in #{language}."
 end
 
-
-
+# Two arguments. The first mandatory, the second optional
+def introduction_with_language_optional(name, language = 'string')
 
 
 
